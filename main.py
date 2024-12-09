@@ -100,7 +100,7 @@ def main(file_path):
 
 
 if __name__ == "__main__":
-    file_path = "./graph.txt"
+    file_path = "./graph2.txt"
 
     ranks = main(file_path)
 
